@@ -8,7 +8,7 @@
 
 - This is the unordered list
 - And now the next item of the unordered list
-`print("I had first leart HTML and after that the first programming language I ever learned was Python. So, this is print statment of python.")`
+`print("I had first learnt HTML and after that the first programming language I ever learned was Python. So, this is print statment of python.")`
 --- What is horizontal rule. I don't know, hence trying to write so that will understand after saving. 
 [Runstone Academy](https://runestone.academy/ns/books/published/thinkcpp/Chapter15/File_output.html)
 ![I don't know how to add image. Hence, just trying for the first time](image.jpg)
